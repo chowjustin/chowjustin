@@ -1,3 +1,4 @@
+[![MasterHead](https://c.tenor.com/p2Fs2DoSLWYAAAAC/tenor.gif)](https://justinchow.site)
 <h1 align="center">Hi 👋, I'm Justin Chow</h1>
 <h3 align="center">Web Development Enthusiast | Informatics Freshman at ITS Surabaya</h3>
 
