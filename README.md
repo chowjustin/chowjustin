@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chowjustin&label=Profile%20views&color=0e75b6&style=flat" alt="chowjustin" /> </p>
 
-<a href="https://justinchow.site"><img align="right" margin="auto" alt="Hello!" width="250" src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/tenor.gif"></a>
+<a href="https://justinchow.site"><img align="right" margin="auto" alt="Hello!" width="150" src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/tenor.gif"></a>
 
 
 - 🔭 I’m currently working on **Schematics ITS**
