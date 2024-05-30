@@ -5,16 +5,14 @@
 
 <div style="display: inline-block;">
   <a href="https://justinchow.site" target="blank">
-    <img src="https://img.shields.io/badge/justinchow.site-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/justinchow.site-000000?style=for-the-badge&logo=home&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/justin.chow05@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
-<div style="display: inline-block;">
   <a href="https://instagram.com/justinnchoww" target="blank">
-    <img src="https://img.shields.io/badge/justinnchoww-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/chowjustin" target="blank">
-    <img src="https://img.shields.io/badge/Justin%20Chow-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
