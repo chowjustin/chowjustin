@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Chow</h1>
-<h3 align="center">Web Development Enthusiast | Informatics Freshman at ITS Surabaya</h3>
+<h3 align="center">Web Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chowjustin&label=Profile%20views&color=0e75b6&style=flat" alt="chowjustin" /> </p>
 
