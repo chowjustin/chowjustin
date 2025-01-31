@@ -29,8 +29,8 @@
 ###
 
 <div style="display: inline-block;">
-  <a href="https://justinchow.site" target="blank">
-    <img src="https://img.shields.io/badge/justinchow.site-000000?style=for-the-badge&logo=home&logoColor=white"/>
+  <a href="https://justin.chow.my.id" target="blank">
+    <img src="https://img.shields.io/badge/justinchow.my.id-000000?style=for-the-badge&logo=home&logoColor=white"/>
   </a>
   <a href="mailto:justin.chow05@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/justin.chow05@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
