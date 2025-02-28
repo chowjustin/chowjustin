@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Frontend Developer | Software Engineering Enthusiast</h4>
+<h4 align="center">Software Engineer</h4>
 
 ###
 
